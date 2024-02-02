@@ -1,0 +1,17 @@
+{
+  "name": "mycobot-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:kimizuka/mycobot-firebase.git",
+  "author": "kimizuka <f.kimizuka@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "python-shell": "^5.0.0",
+    "socket.io": "^4.7.4"
+  }
+}
